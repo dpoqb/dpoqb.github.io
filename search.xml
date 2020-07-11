@@ -1501,11 +1501,12 @@
 <h3 id="4-2-数据预处理"><a href="#4-2-数据预处理" class="headerlink" title="4.2 数据预处理"></a>4.2 数据预处理</h3><p>第二个方法预处理步骤需要稍作调整，就是不需要考虑第一个点与起始港的距离，再就是对于两点之间距离超过船的行驶能力的数据点进行去除，之前我是按时间间隔大小为阈值进行去除的，但是这样明显不正确，需要考虑两点之间的距离和时间差。</p>
 ]]></content>
       <categories>
-        <category>Contends</category>
+        <category>Misc</category>
       </categories>
       <tags>
         <tag>机器学习</tag>
         <tag>大数据</tag>
+        <tag>竞赛</tag>
       </tags>
   </entry>
 </search>
